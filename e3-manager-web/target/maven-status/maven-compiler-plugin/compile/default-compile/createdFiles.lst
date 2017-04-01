@@ -1,0 +1,8 @@
+cn\e3mall\manager\controller\PicController.class
+cn\e3mall\manager\controller\SystemController.class
+cn\e3mall\manager\controller\ContentCategoryController.class
+cn\e3mall\manager\controller\TbItemCatController.class
+cn\e3mall\manager\controller\TbContentController.class
+cn\e3mall\manager\controller\TbItemExtController.class
+cn\e3mall\manager\controller\ItemController.class
+cn\e3mall\manager\utils\FastDFSClient.class

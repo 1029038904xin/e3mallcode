@@ -1,0 +1,11 @@
+cn\e3mall\manager\mapper\TbItemMapper.class
+cn\e3mall\manager\mapper\ext\TbItemExtMapper.class
+cn\e3mall\manager\mapper\TbContentMapper.class
+cn\e3mall\manager\mapper\TbUserMapper.class
+cn\e3mall\manager\mapper\TbItemParamMapper.class
+cn\e3mall\manager\mapper\TbContentCategoryMapper.class
+cn\e3mall\manager\mapper\TbOrderMapper.class
+cn\e3mall\manager\mapper\TbOrderItemMapper.class
+cn\e3mall\manager\mapper\TbOrderShippingMapper.class
+cn\e3mall\manager\mapper\TbItemCatMapper.class
+cn\e3mall\manager\mapper\TbItemParamItemMapper.class
